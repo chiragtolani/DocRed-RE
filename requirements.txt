@@ -1,0 +1,24 @@
+# requirements.txt
+
+# Core numerical and data processing libraries
+numpy==1.26.4
+pandas==2.2.2
+tqdm==4.66.5
+
+# PyTorch (CPU version; for GPU, install with CUDA support)
+torch==2.4.1
+
+# Torch Geometric for GCN (additional dependencies may be needed)
+torch-geometric==2.5.3
+
+#Torch CLuster for GCN
+torch-cluster>=1.6.0
+
+# Transformers for BERT embeddings
+transformers==4.44.2
+
+# Scikit-learn for machine learning utilities
+scikit-learn==1.5.2
+
+# XGBoost for gradient boosting (GPU support requires CUDA)
+xgboost==2.1.1
