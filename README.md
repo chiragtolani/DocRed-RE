@@ -61,6 +61,3 @@ Kindly note that the following folder and file structure of our project:
 Please note that the same zip file contains three main dataset files—**train_revised.json**, **test_revised.json**, and **dev_revised.json**—which are the training data, testing data, and validation data, respectively. 
 
 We have also included a short research paper (**RE-paper-final.pdf**) detailing the approaches applied to the dataset for relation extraction, a discussion of related work, the methodology applied to both approaches and an evaluation of the performance of both approaches. The paper also provides a comparative analysis of both the models and limitations faced during the implementation phase. 
-
-
-```
