@@ -32,9 +32,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-**Please note that for importing the torch-cluster library, Visual C++ libraries should be already installed (Visual Studio Build Tools: You’ll need a C++ compiler, and Microsoft’s Visual Studio Build Tools is the standard choice)**
+Please note that for importing the torch-cluster library, Visual C++ libraries should be already installed (Visual Studio Build Tools: You’ll need a C++ compiler, and Microsoft’s Visual Studio Build Tools is the standard choice)
 
-**Minimum components: MSVC C++ build tools,Windows SDK**
+**Minimum components:** MSVC C++ build tools,Windows SDK**
 
 ## Contact
 - Aishwarya Kulkarni - Student ID: [11606062] - [aishwarya.kulkarni@postgrad.manchester.ac.uk]
