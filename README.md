@@ -37,10 +37,10 @@ Please note that for importing the torch-cluster library, Visual C++ libraries s
 **Minimum components:** MSVC C++ build tools,Windows SDK
 
 ## Contact
-- Aishwarya Kulkarni - Student ID: [11606062] - [aishwarya.kulkarni@postgrad.manchester.ac.uk]
-- Vaibhav Parihar - Student ID: [11544144] - [vaibhav.parihar@postgrad.manchester.ac.uk]
-- Shreya Varghese - Student ID: [11603111] - [shreya.varghese@postgrad.manchester.ac.uk]
-- Chirag Tolani - Student ID: [14124054] - [chirag.tolani@postgrad.manchester.ac.uk]
+- Aishwarya Kulkarni
+- Vaibhav Parihar
+- Shreya Varghese
+- Chirag Tolani 
 
 ## Other Remarks
 
